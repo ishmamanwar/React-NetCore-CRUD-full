@@ -19,7 +19,7 @@
 - https://github.com/ishmamanwar/React-NetCore-CRUD-full/blob/master/recordedVideo.mp4
 
 
-### The dropdown list features do not show on the recording for some reason thats why I have added screenshots to show those on this repository as well
+### The dropdown lists do not show on the recording for some reason thats why I have added screenshots to show those on this repository as well
 1. https://github.com/ishmamanwar/React-NetCore-CRUD-full/blob/master/active-inactive-ddl-product.jpg
 2. https://github.com/ishmamanwar/React-NetCore-CRUD-full/blob/master/only-active-cats.jpg
 3. https://github.com/ishmamanwar/React-NetCore-CRUD-full/blob/master/only-active-cats.jpg
